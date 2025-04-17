@@ -1,0 +1,43 @@
+/* Inciso 4 */
+.navbar li a:hover {
+	text-decoration: underline;
+}
+/* Inciso 5 */
+.banner .banner-text h2.white {
+    font-size: 200%;
+}
+.banner .banner-text h6.white a.weblink {
+    color: red;
+}
+/* Inciso 6*/
+
+.feature.section-padding .container .row.row .col-md-12 .sectioner-header.text-center h3 {
+    color: #8D1EFB;
+}
+/* Inciso 7*/
+.feature>.container>.row>.col-md-12>.section-content.text-center>.row.row .col-md-4.col-sm-12>.media.single-feature.wow.fadeInUp .media-body>h5{
+    color:#5EE25A;
+}
+section.feature[data-scroll-index='2'] .single-feature [class^="fa-"]::before,
+section.feature[data-scroll-index='2'] .single-feature [class*=" fa-"]::before {
+    color: #f775b4;
+}
+/* Inciso 8*/
+section.team[data-scroll-index='3'] .sectioner-header h3 {
+    display: inline-block;          
+    padding: 8px 15px;             
+    border: 1px solid #8D1EFB;     
+    border-radius: 4px;            
+}
+/* Inciso 9*/
+html body .navbar.navbar-expand-lg.nav-scroll~.feature.section-padding+section.team.section-padding div.container div.row div.col-md-12 div.section-content.text-center>div.row.row .col-md-4 div.team-detail.wow.bounce h4 {
+    color: #2E74A7;
+}
+/* Inciso 10*/
+html body section.testimonial.section-padding div.container div.row div.col-md-12 div.section-content div.row.row div.offset-md-2.col-md-8.col-sm-12 div.bx-wrapper div.bx-viewport div.slider div.slider-item div.test-text span {
+    text-decoration: underline;
+}
+/* Inciso 11*/
+html body footer.footer-copy div.container-fluid div.row.row div.col-md-12 p a {
+    color: #844E41;
+}
